@@ -15,6 +15,7 @@
     overflow: hidden;
     background: rgb(0,176,254);
     background: linear-gradient(180deg, rgba(0,176,254,1) 0%, rgba(122,201,255,1) 44%, rgba(203,246,255,1) 100%);
+    @import url('https://fonts.cdnfonts.com/css/common-pixel');
 }
 
 

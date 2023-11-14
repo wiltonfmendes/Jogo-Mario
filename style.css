@@ -18,6 +18,9 @@
     @import url('https://fonts.cdnfonts.com/css/common-pixel');
 }
 
+.score {
+    font-family: 'Common Pixel', sans-serif;
+}
 
 .pipe {
     position: absolute;

@@ -31,7 +31,7 @@ const loop = setInterval(() => {
         mario.style.animation = 'none';
         mario.style.left = `${marioPosition}px`;
 
-        mario.src = './imagens/game-over.png';
+        mario.src = 'https://github.com/wiltonfmendes/Jogo-Mario/blob/main/game-over.png?raw=true';
         mario.style.width = '70px';
         mario.style.marginLeft = '50px';
 

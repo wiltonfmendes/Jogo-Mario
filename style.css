@@ -20,8 +20,10 @@
 
 .score {
     font-family: 'Common Pixel', sans-serif;
+    font-size: 20px;
     position: absolute;
     right: 0;
+    
 }
 
 .pipe {
